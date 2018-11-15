@@ -1,5 +1,5 @@
 def get_helloworld():
-    return print('hello world')
+    return 'hello world'
 
 def test_get_helloworld():
   assert 'hello world' == get_helloworld()
